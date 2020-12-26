@@ -7,7 +7,7 @@
 <vectornator:setting key="GuidesVisible" value="1"/>
 <vectornator:setting key="RulersVisible" value="1"/>
 <vectornator:setting key="SnapToEdges" value="1"/>
-<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
 <vectornator:setting key="SnapToGuides" value="1"/>
 <vectornator:setting key="GridSpacing" value="45"/>
 <vectornator:setting key="Units" value="Millimeters"/>
