@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 104.895 73.71">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="45"/>
+<vectornator:setting key="Units" value="Millimeters"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#000000" stroke-width="2.05" d="M37.2593+28.6822C37.2593+22.5446+42.2347+17.5692+48.3723+17.5692C54.5098+17.5692+59.4852+22.5446+59.4852+28.6822C59.4852+34.8197+54.5098+39.7952+48.3723+39.7952C42.2347+39.7952+37.2593+34.8197+37.2593+28.6822Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.05" d="M46.5102+66.1888L35.6561+47.389C34.6277+45.6077+35.4614+44.1638+37.5182+44.1638L59.2263+44.1638C61.2831+44.1638+62.1168+45.6077+61.0884+47.389L50.2343+66.1888C49.2059+67.97+47.5386+67.97+46.5102+66.1888Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.05" d="M53.3966+8.68592C53.3966+8.68592+58.7154+8.81406+62.1768+11.6925C65.6382+14.571+67.2423+20.1997+67.2423+20.1997" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.05" d="M60.3195+4.38647C60.3195+4.38647+64.2807+5.59293+66.8586+8.10701C69.4365+10.6211+70.6312+14.4428+70.6312+14.4428" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

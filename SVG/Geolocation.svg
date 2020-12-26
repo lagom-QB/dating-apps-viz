@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 841.995 595.35">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="45"/>
+<vectornator:setting key="Units" value="Millimeters"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#000000" stroke-width="3" d="M418.482+194.026C418.482+167.414+440.055+145.841+466.667+145.841C493.278+145.841+514.851+167.414+514.851+194.026C514.851+220.638+493.278+242.211+466.667+242.211C440.055+242.211+418.482+220.638+418.482+194.026Z" fill="#ffffff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="3" d="M461.318+374.653L403.452+262.528C400.499+256.804+403.325+252.165+409.766+252.165L523.567+252.165C530.008+252.165+532.835+256.804+529.881+262.528L472.015+374.653C469.061+380.376+464.272+380.376+461.318+374.653Z" fill="#ffffff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" vectornator:shadowColor="#313131" vectornator:shadowOffset="3.6" stroke-width="3" fill="none" stroke-linecap="round" vectornator:shadowAngle="0.278635" stroke-linejoin="round" opacity="1" vectornator:shadowRadius="2.37557" d="M452.153+373.703C433.276+376.867+417.635+409.415+451.72+411.107C475.073+412.266+491.006+404.349+500.253+392.198C508.469+381.404+500.132+366.414+483.794+368.666" vectornator:shadowOpacity="1"/>
+</g>
+</svg>
