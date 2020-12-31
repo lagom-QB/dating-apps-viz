@@ -1,8 +1,8 @@
-Category,Count,Occupants
-General,6,['AdultFriendFinder', 'Cupid.com', 'Match.com', 'POF(PlentyofFish)', 'Tinder', 'Lovestruck.com']
-Geolocation,7,['AnastasiaDate' ,'Badoo Grindr' ,'Mamba' ,'Meetic' ,'Lovestruck.com' ,'Taimi']
-Heuristic,8,['DNARomance/SingldOut',' eHarmony', 'Moonit', 'OkCupid(OkC)', 'Parship', 'Perfectmatch.com', 'Tastebuds.fm', 'Tawkify']
-Marital status,2,['AshleyMadison', 'Gleeden']
-Religion,5,['ChristianConnection' ,'ChristianMingle', 'JDate' ,'JSwipe', 'muzmatch']
-Sex/Gender,12,['Adam4Adam' ,'Bumble' ,'CompatiblePartners', 'Gaydar', 'GayRomeo/PlanetRomeo', 'Manhunt', 'Scruff', 'AshleyMadison', 'Gleeden', 'Her', 'Hinge', 'Taimi']
-Social network,8,['BeautifulPeople.com', 'CoffeeMeetsBagel', 'DateMySchool', 'RightStuff', 'SpeedDate.com', 'Zoosk', 'Her', 'Hinge']
+,Category,Occupants
+0,General,"['AdultFriendFinder', 'Cupid.com', 'Lovestruck.com', 'Match.com', 'POF(PlentyofFish)', 'Tinder']"
+1,Geolocation,"['AnastasiaDate', 'Badoo', 'Grindr', 'Lovestruck.com', 'Mamba', 'Meetic', 'Taimi']"
+2,Heuristic,"['DNARomance/SingldOut', 'Moonit', 'OkCupid(OkC)', 'Parship', 'Perfectmatch.com', 'Tastebuds.fm', 'Tawkify', 'eHarmony']"
+3,Marital status,"['AshleyMadison', 'Gleeden']"
+4,Religion,"['ChristianConnection', 'ChristianMingle', 'JDate', 'JSwipe', 'muzmatch']"
+5,Sex/Gender,"['Adam4Adam', 'AshleyMadison', 'Bumble', 'CompatiblePartners', 'GayRomeo/PlanetRomeo', 'Gaydar', 'Gleeden', 'Her', 'Hinge', 'Manhunt', 'Scruff', 'Taimi']"
+6,Social network,"['BeautifulPeople.com', 'CoffeeMeetsBagel', 'DateMySchool', 'Her', 'Hinge', 'RightStuff', 'SpeedDate.com', 'Zoosk']"
