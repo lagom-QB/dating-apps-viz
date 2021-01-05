@@ -32,3 +32,6 @@ This answers the question of the major quirks of the apps and who the apps are f
 How do we get an accurate number of users of the app?  
 Who is the audience going to go through this?  
 What is the best format to present this as?  
+
+### [Results](https://infogram.com/dating-apps-1h0n25yyjv35z6p?live) 🤵🏿📈
+[![Screenshot-from-2021-01-05-09-16-21.png](https://i.postimg.cc/QxFZr87N/Screenshot-from-2021-01-05-09-16-21.png)(https://postimg.cc/w7YGXdFn)]
