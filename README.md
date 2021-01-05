@@ -34,4 +34,4 @@ Who is the audience going to go through this?
 What is the best format to present this as?  
 
 ### [Results](https://infogram.com/dating-apps-1h0n25yyjv35z6p?live) 🤵🏿📈
-[![Screenshot-from-2021-01-05-09-16-21.png](https://i.postimg.cc/QxFZr87N/Screenshot-from-2021-01-05-09-16-21.png)(https://postimg.cc/w7YGXdFn)]
+[![Screenshot-from-2021-01-05-09-16-21.png](https://i.postimg.cc/QxFZr87N/Screenshot-from-2021-01-05-09-16-21.png)](https://postimg.cc/w7YGXdFn)
