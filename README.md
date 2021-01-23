@@ -33,5 +33,5 @@ How do we get an accurate number of users of the app?
 Who is the audience going to go through this?  
 What is the best format to present this as?  
 
-### [Results](https://infogram.com/dating-apps-1h0n25yyjv35z6p?live) 🤵🏿📈
-[![Dating-Apps.png](https://i.postimg.cc/T2KXDngy/Dating-Apps.png)](https://postimg.cc/JtCgwDTm)
+### [Live Results](https://infogram.com/dating-apps-1h0n25yyjv35z6p?live) 🤵🏿📈
+[![Dating-Apps.png](https://i.postimg.cc/T2KXDngy/Dating-Apps.png)](https://github.com/lagom-QB/dating-apps-viz/blob/main/README.md)
