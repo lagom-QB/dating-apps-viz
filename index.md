@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Dating Apps Comparisons
+Visualizing similarities and differences between dating applications 💌
 
-You can use the [editor on GitHub](https://github.com/lagom-QB/dating-apps-viz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Data 🗄️
+Data is gotten from https://en.wikipedia.org/wiki/Comparison_of_online_dating_services
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question(s) 🤔💭
+- What is the major quirk/product of these apps?
+- Who are these apps for?
+- How do these apps match people?
+- Where are these apps popular?
 
-### Markdown
+### Sketches &#128221;
+[![page1-figma.png](https://i.postimg.cc/Jn5ch9hm/page1-figma.png)](https://postimg.cc/Hcj7Zv5P)  
+```  
+The different colors represent the different categories of the different apps while 
+the scale represents the number of users using apps in said categories.  
+This representation would represent the number of people using apps in certain 
+categories, the major quirks of all the apps. 
+``` 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-----
 
-```markdown
-Syntax highlighted code block
+[![page2-figma.png](https://i.postimg.cc/tRVn20bg/page2-figma.png)](https://postimg.cc/QVhMdyHL) 
+``` 
+The different glyphs represnt the different quirks and subquirks found within the 
+apps and the scale would represents the count of apps with that quirk.  
+This answers the question of the major quirks of the apps and who the apps are for.  
+``` 
 
-# Header 1
-## Header 2
-### Header 3
+### Open Questions 🧐
+How do we get an accurate number of users of the app?  
+Who is the audience going to go through this?  
+What is the best format to present this as?  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagom-QB/dating-apps-viz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Live Results](https://infogram.com/dating-apps-1h0n25yyjv35z6p?live) 🤵🏿📈
+[![Dating-Apps.png](https://i.postimg.cc/T2KXDngy/Dating-Apps.png)](https://github.com/lagom-QB/dating-apps-viz/blob/main/README.md)
